@@ -27,6 +27,7 @@ async function getData() {
   return filtered;
 };
 
+// Home component 
 export default async function Home() {
   const blogs = await getData();
 
