@@ -49,6 +49,7 @@ const GlowCard = ({ children , identifier}) => {
       }
     };
 
+    // Add event listener
     document.body.addEventListener('pointermove', UPDATE);
 
     const RESTYLE = () => {
