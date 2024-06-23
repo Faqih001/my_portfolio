@@ -107,7 +107,7 @@ Eg:
 ```javascript
 export const personalData = {
   name: "FAKII MOHAMMED",
-  profile: "/profile.png",
+  profile: "/profile.jpeg",
   designation: "Full-Stack Software Developer",
   description: "My name is FAKII MOHAMMED....",
   email: "fakiiahmad001@gmail.com",
@@ -119,7 +119,7 @@ export const personalData = {
   twitter: "https://twitter.com/",
   stackOverflow: "https://stackoverflow.com/users/",
   leetcode: "https://leetcode.com/",
-  devUsername: "said7388",
+  devUsername: "",
   resume: "...",
 };
 ```
