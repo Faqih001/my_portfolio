@@ -23,6 +23,7 @@ async function getData() {
   // Filter out articles without cover image and sort randomly 
   const filtered = data.filter((item) => item?.cover_image).sort(() => Math.random() - 0.5);
 
+  // Return filtered data
   return filtered;
 };
 
