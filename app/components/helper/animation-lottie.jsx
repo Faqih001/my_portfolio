@@ -2,6 +2,7 @@
 
 import Lottie from "lottie-react";
 
+// Define the AnimationLottie component
 const AnimationLottie = ({ animationPath, width }) => {
   const defaultOptions = {
     loop: true,
