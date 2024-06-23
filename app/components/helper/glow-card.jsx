@@ -17,6 +17,7 @@ const GlowCard = ({ children , identifier}) => {
       opacity: 0,
     };
 
+    // Define the update function
     const UPDATE = (event) => {
       for (const CARD of CARDS) {
         const CARD_BOUNDS = CARD.getBoundingClientRect();
