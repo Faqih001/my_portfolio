@@ -115,7 +115,7 @@ export const personalData = {
   address: "Nakuru, Kenya",
   github: "https://github.com/faqih001",
   facebook: "https://www.facebook.com/amirul.fakii/",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
+  linkedIn: "https://www.linkedin.com/in/",
   twitter: "https://twitter.com/said7388",
   stackOverflow: "https://stackoverflow.com/users/",
   leetcode: "https://leetcode.com/",
