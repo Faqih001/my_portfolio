@@ -15,6 +15,7 @@ async function getBlogs() {
   return data;
 };
 
+// Blog page component 
 async function page() {
   const blogs = await getBlogs();
 
