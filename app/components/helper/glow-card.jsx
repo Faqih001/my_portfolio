@@ -6,6 +6,8 @@ const GlowCard = ({ children , identifier}) => {
   useEffect(() => {
     // Get the container and cards
     const CONTAINER = document.querySelector(`.glow-container-${identifier}`);
+
+    // Get the cards
     const CARDS = document.querySelectorAll(`.glow-card-${identifier}`);
 
     // Define the configuration for the glow effect
