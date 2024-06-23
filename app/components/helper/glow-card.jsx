@@ -1,6 +1,7 @@
 "use client"
 import { useEffect } from 'react';
 
+// Define the GlowCard component
 const GlowCard = ({ children , identifier}) => {
   useEffect(() => {
     const CONTAINER = document.querySelector(`.glow-container-${identifier}`);
