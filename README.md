@@ -114,7 +114,7 @@ export const personalData = {
   phone: "+254741140250",
   address: "Nakuru, Kenya",
   github: "https://github.com/faqih001",
-  facebook: "https://www.facebook.com/abusaid.riyaz/",
+  facebook: "https://www.facebook.com/amirul.fakii/",
   linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
   twitter: "https://twitter.com/said7388",
   stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
