@@ -16,6 +16,7 @@ export const metadata = {
     "This is the portfolio of Abu Said. I am a full stack developer and a self taught developer. I love to learn new things and I am always open to collaborating with others. I am a quick learner and I am always looking for new challenges.",
 };
 
+// Define the layout component 
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
