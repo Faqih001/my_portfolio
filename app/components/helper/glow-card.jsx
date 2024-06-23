@@ -4,6 +4,7 @@ import { useEffect } from 'react';
 // Define the GlowCard component
 const GlowCard = ({ children , identifier}) => {
   useEffect(() => {
+    // Get the container and cards
     const CONTAINER = document.querySelector(`.glow-container-${identifier}`);
     const CARDS = document.querySelectorAll(`.glow-card-${identifier}`);
 
