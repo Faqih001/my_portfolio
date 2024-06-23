@@ -116,7 +116,7 @@ export const personalData = {
   github: "https://github.com/faqih001",
   facebook: "https://www.facebook.com/amirul.fakii/",
   linkedIn: "https://www.linkedin.com/in/",
-  twitter: "https://twitter.com/said7388",
+  twitter: "https://twitter.com/",
   stackOverflow: "https://stackoverflow.com/users/",
   leetcode: "https://leetcode.com/",
   devUsername: "said7388",
