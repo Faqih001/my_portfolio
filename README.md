@@ -4,10 +4,6 @@
 
 ---
 
-# Demo :movie_camera:
-
-![](./public/image/screen.png)
-
 ## View live preview [here](https://abusaid.netlify.app/).
 
 ---
@@ -115,7 +111,7 @@ export const personalData = {
   address: "Nakuru, Kenya",
   github: "https://github.com/faqih001",
   facebook: "https://www.facebook.com/amirul.fakii/",
-  linkedIn: "https://www.linkedin.com/",
+  linkedIn: "",
   twitter: "https://twitter.com/",
   stackOverflow: "https://stackoverflow.com/users/",
   leetcode: "https://leetcode.com/",
