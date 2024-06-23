@@ -29,6 +29,8 @@ async function getData() {
 
 // Home component 
 export default async function Home() {
+
+  // Get data from dev.to API
   const blogs = await getData();
 
   return (
