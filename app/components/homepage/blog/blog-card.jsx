@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { BsHeartFill } from 'react-icons/bs';
 import { FaCommentAlt } from 'react-icons/fa';
 
+// Blog card 
 function BlogCard({ blog }) {
 
   return (
