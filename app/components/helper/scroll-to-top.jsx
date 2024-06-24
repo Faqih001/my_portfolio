@@ -29,6 +29,7 @@ const ScrollToTop = () => {
     };
   }, []);
 
+  // Scroll to top function
   const onClickBtn = () => window.scrollTo({ top: 0, behavior: "smooth" });
 
   return (
