@@ -14,6 +14,7 @@ const ScrollToTop = () => {
   // State for the button class
   const [btnCls, setBtnCls] = useState(DEFAULT_BTN_CLS);
 
+  // Add scroll event listener
   useEffect(() => {
     const handleScroll = () => {
       if (window.scrollY > SCROLL_THRESHOLD) {
