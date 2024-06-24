@@ -10,6 +10,8 @@ const SCROLL_THRESHOLD = 50;
 
 // ScrollToTop component 
 const ScrollToTop = () => {
+
+  // State for the button class
   const [btnCls, setBtnCls] = useState(DEFAULT_BTN_CLS);
 
   useEffect(() => {
