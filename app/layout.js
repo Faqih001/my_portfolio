@@ -7,6 +7,8 @@ import Navbar from "./components/navbar";
 import "./css/card.scss";
 import "./css/globals.scss";
 import ScrollToTop from "./components/helper/scroll-to-top";
+
+//Inter font of Google Fonts Latin subset 
 const inter = Inter({ subsets: ["latin"] });
 
 // Define metadata for the page 
