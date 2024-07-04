@@ -4,7 +4,7 @@ import { NextResponse } from "next/server";
 // Post request to verify the captcha token 
 export async function POST(request) {
 
-  // req body  
+  // req body 
   const reqBody = await request.json();
   const secret_key = process.env.NEXT_PUBLIC_RECAPTCHA_SECRET_KEY;
 
