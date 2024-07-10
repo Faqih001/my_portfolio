@@ -1,3 +1,4 @@
+// This file contains the list of skills that you can choose from.
 export const skillsData = [
   'HTML',
   'CSS',
