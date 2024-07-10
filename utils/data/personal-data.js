@@ -1,3 +1,4 @@
+// Desc: Personal data for the portfolio
 export const personalData = {
   name: "Fakii Mohammed",
   profile: '/profile.jpeg',
