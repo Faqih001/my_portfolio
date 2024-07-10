@@ -6,6 +6,8 @@ export async function POST(request) {
 
   // req body 
   const reqBody = await request.json();
+
+  // secret key with env 
   const secret_key = process.env.NEXT_PUBLIC_RECAPTCHA_SECRET_KEY;
 
   try {
