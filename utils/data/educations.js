@@ -7,14 +7,14 @@ export const educations = [
   },
   {
     id: 2,
-    title: "Kenya Secondary Certificate of Education",
+    title: "Kenya Certificate of Secondary Education",
     duration: "2014 - 2017",
     institution: "Moi Forces Academy - Mombasa",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Kenya Certificate of Primary Education",
+    duration: "2006 - 2013",
+    institution: "Kenya Navy Primary School",
   }
 ]
