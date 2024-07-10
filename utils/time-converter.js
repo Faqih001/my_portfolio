@@ -1,4 +1,5 @@
 export function timeConverter(isoTime) {
+  // Convert ISO time to milliseconds
   const currentTime = new Date().getTime();
   const pastTime = new Date(isoTime).getTime();
   const timeDifference = currentTime - pastTime;
