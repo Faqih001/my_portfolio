@@ -1,6 +1,6 @@
 export const contactsData = {
     email: 'fakiiahmad001@gmail.com',
-    phone: '+8801608797655',
+    phone: '+254741140250',
     address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
     github: 'https://github.com/said7388',
     facebook: 'https://www.facebook.com/abusaid.riyaz/',
