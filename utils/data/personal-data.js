@@ -13,5 +13,6 @@ export const personalData = {
   twitter: 'https://twitter.com/Faqihprogramme1',
   stackOverflow: 'https://stackoverflow.com/users/14040928/fakii-ahmad',
   leetcode: "https://leetcode.com/fakiimohammed/",
-  resume: "/drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
+  resume: "/drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing",
+  devUsername: "said7388"
 }
