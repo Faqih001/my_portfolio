@@ -75,9 +75,11 @@ import wordpress from '/public/svg/skills/wordpress.svg';
 
 
 export const skillsImage = (skill) => {
-  
+
   // Convert skill to lowercase
   const skillID = skill.toLowerCase();
+
+  // Return skill image
   switch (skillID) {
     case 'gcp':
       return gcp;
