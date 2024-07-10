@@ -6,6 +6,6 @@ export const contactsData = {
     facebook: 'https://www.facebook.com/amirul.faqih/',
     linkedIn: 'https://www.linkedin.com/in/fakii-ahmad-a96a84213/',
     twitter: 'https://twitter.com/said7388',
-    stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
+    stackOverflow: 'https://stackoverflow.com/users/14040928/fakii-ahmad',
     devUsername: "said7388"
 }
