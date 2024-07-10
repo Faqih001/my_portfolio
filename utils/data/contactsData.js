@@ -1,7 +1,7 @@
 export const contactsData = {
     email: 'fakiiahmad001@gmail.com',
     phone: '+254741140250',
-    address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
+    address: 'Kenya, Nakuru Kabarak - 20157',
     github: 'https://github.com/said7388',
     facebook: 'https://www.facebook.com/abusaid.riyaz/',
     linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
