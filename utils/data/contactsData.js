@@ -5,6 +5,6 @@ export const contactsData = {
     github: 'https://github.com/Faqih001',
     facebook: 'https://www.facebook.com/amirul.faqih/',
     linkedIn: 'https://www.linkedin.com/in/fakii-ahmad-a96a84213/',
-    twitter: 'https://twitter.com/said7388',
+    twitter: 'https://twitter.com/Faqihprogramme1',
     stackOverflow: 'https://stackoverflow.com/users/14040928/fakii-ahmad',
 }
