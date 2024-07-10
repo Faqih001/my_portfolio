@@ -11,7 +11,7 @@ export const personalData = {
   linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
   twitter: 'https://twitter.com/Faqihprogramme1',
   stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
+  leetcode: "https://leetcode.com/fakiimohammed/",
   devUsername: "said7388",
   resume: "/drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
 }
