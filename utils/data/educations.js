@@ -7,7 +7,7 @@ export const educations = [
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
+    title: "Kenya Secondary Certificate of Education",
     duration: "2018 - 2020",
     institution: "Noakhali Islamia Kamil Madrasah",
   },
