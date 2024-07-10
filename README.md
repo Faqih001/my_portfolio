@@ -4,7 +4,7 @@
 
 ---
 
-## View live preview [here](https://abusaid.netlify.app/).
+## View live preview [here](https://my-portfolio-six-silk-87.vercel.app/).
 
 ---
 
