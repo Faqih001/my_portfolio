@@ -6,7 +6,7 @@ export const personalData = {
   email: 'fakiiahmad001@gmail.com',
   phone: '+254 741140250',
   address: 'Kenya, Nakuru Kabarak - 20157 ',
-  github: 'https://github.com/said7388',
+  github: 'https://github.com/Faqih001',
   facebook: 'https://www.facebook.com/abusaid.riyaz/',
   linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
   twitter: 'https://twitter.com/said7388',
