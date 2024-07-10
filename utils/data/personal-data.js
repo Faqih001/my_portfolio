@@ -14,5 +14,7 @@ export const personalData = {
   stackOverflow: 'https://stackoverflow.com/users/14040928/fakii-ahmad',
   leetcode: "https://leetcode.com/fakiimohammed/",
   resume: "/drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing",
-  devUsername: "said7388"
+  devUsername: "fakii254"
 }
+
+//said7388
