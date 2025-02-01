@@ -23,13 +23,11 @@ module.exports = {
           "3xl": "5rem",
         },
       },
-
-      extend: {
-        screens: {
-          "4k": "1980px",
-        },
+      screens: { // Moved this out of the extra `extend`
+        "4k": "1980px",
       },
     },
   },
   plugins: [],
-}
+};
+
