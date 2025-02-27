@@ -3,7 +3,7 @@ export const personalData = {
   name: "Fakii Mohammed",
   profile: '/profile.jpeg',
   designation: "Software Engineer",
-  description: "My name is Fakii Mohammed. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
+  description: "I am Fakii Mohammed, a passionate and results-driven software engineer with a strong background in frontend and full-stack development. I have a deep love for problem-solving, continuous learning, and exploring emerging technologies. My expertise lies in JavaScript, TypeScript, and modern web development frameworks such as React and Angular. I thrive in collaborative environments, where I can contribute to building scalable, user-friendly applications. I am always open to new opportunities that align with my skills, interests, and passion for innovation in technology.",
   email: 'fakiiahmad001@gmail.com',
   phone: '+254 741140250',
   address: 'Kenya, Nakuru Kabarak - 20157',
